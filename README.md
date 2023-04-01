@@ -1,4 +1,4 @@
-# Hi there I'm Xandote 👋
+# Hi there I'm Symphonieeee 👋
 [![GitHub Xandote](https://img.shields.io/github/followers/Xandote?label=follow&style=social)](https://github.com/Symphonieeee)&nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=Xandote&color=red)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
