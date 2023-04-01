@@ -1,10 +1,9 @@
 # Hi there I'm Xandote 👋
-[![GitHub Xandote](https://img.shields.io/github/followers/Xandote?label=follow&style=social)](https://github.com/Xandote)&nbsp;
+[![GitHub Xandote](https://img.shields.io/github/followers/Xandote?label=follow&style=social)](https://github.com/Symphonieeee)&nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=Xandote&color=red)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-<a href="https://instagram.com/dev.xandote"><img src="https://img.shields.io/badge/Follow-8b72ff?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/998978662231724052)](https://discord.com/users/998978662231724052)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/979420512100941844)](https://discord.com/users/979420512100941844)
 
 
 
