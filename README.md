@@ -1,51 +1,14 @@
-# Hi there I'm Symphonieeee 👋
-[![GitHub Xandote](https://img.shields.io/github/followers/Xandote?label=follow&style=social)](https://github.com/Symphonieeee)&nbsp;
-![profile count](https://komarev.com/ghpvc/?username=Xandote&color=red)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+# <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff0000&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+Ertu">
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/979420512100941844)](https://discord.com/users/979420512100941844)
+<img width="30%" align="right" src="https://luppufy.onrender.com/member/136619876407050240">
+<div align="left" width="100%">
 
+<p align="center">
+ <a href="https://discord.com/users/136619876407050240" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/ertucuk" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-030303.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/31udnyhhkl35vwg2ko265z3pwqpy?si=ef8990b35f8b4bbb" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-030303.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ <a href="https://www.instagram.com/ertucum/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-030303.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
 
+<img align="left" width="40%" src="https://count.getloli.com/get/@:vante-xyz?theme=asoul"> 
 
-
-### Languages:
-
-[<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-
-
-<br />
-<br />
-<br />
-
-
-
-### Technologies:
-
-[<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-<br />
-<br />
-<br />
-
-
-<h3 align="left">:bar_chart: GitHub Stats:</h3>
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=Xandote&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=Xandote&theme=radical" />
-</p>
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://www.youtube.com/user/newdaynewgame
-[instagram]: https://instagram.com/dev.xandote
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
-
-
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ertucuk&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
