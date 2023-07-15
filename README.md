@@ -1,6 +1,6 @@
 # <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff0000&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+Veyndev">
 
-<img width="30%" align="right" src="https://luppufy.onrender.com/member/750692921434570753">
+<img width="30%" align="right" src="https://luppufy.onrender.com/member/803522721572061205">
 <div align="left" width="100%">
 
 <p align="center">
