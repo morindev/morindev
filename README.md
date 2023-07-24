@@ -5,8 +5,8 @@
 
 <p align="center">
  <a href="https://discord.com/users/750692921434570753" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/ertucuk" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-030303.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/31udnyhhkl35vwg2ko265z3pwqpy?si=ef8990b35f8b4bbb" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-030303.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://github.com/veyndev" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-030303.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/31udnyhhkl35vwg2ko265z3pwqpy?si=ef8990b35f8b4bbb(https://open.spotify.com/user/31qvzbq7oasnfhzdaapt5ddxhedu?si=7fc06756acd94d76)" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-030303.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://www.instagram.com/symphonieteras/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-030303.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
 
 <img align="left" width="40%" src="https://count.getloli.com/get/@:vante-xyz?theme=asoul"> 
