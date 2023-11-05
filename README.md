@@ -1,14 +1,12 @@
-# <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff0000&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+Veyndev">
-
-<img width="30%" align="right" src="https://luppufy-api.onrender.com/member/979420512100941844">
-<div align="left" width="100%">
-
 <p align="center">
- <a href="https://discord.com/users/750692921434570753" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/veyndev" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-030303.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/31qvzbq7oasnfhzdaapt5ddxhedu?si=7fc06756acd94d76" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-030303.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
- <a href="https://www.instagram.com/symphonieteras/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-030303.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+ <br><br>
+  <samp>
+    Hi there, I'm Veyn :wave:<br>
+    I write code in my spare time.<br>
+    <br><img src="https://count.getloli.com/get/@:vante-xyz?theme=asoul">
+    <br><br>:joy_cat: For Everything :point_right: <a href="https://discord.com/users/136619876407050240">My Discord</a>
+  </samp>
+</p>
 
-<img align="left" width="40%" src="https://count.getloli.com/get/@:vante-xyz?theme=asoul"> 
-
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=veyndev&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
+<a href="https://futuree.netlify.app/en" target="_blank"><img src="https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966" alt="MasterHead" style="max-width: 100%;"></a>
