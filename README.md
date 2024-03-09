@@ -11,4 +11,3 @@
 <p align="center">
   <a href="https://discord.com/users/929388270171873291" target="_blank"><img src="https://lanyard.cnrad.dev/api/929388270171873291?hideActivity=true" alt="Discord Presence" style="max-width: 100%;"></a>
 </p>
-style="max-width: 100%;"></a>
