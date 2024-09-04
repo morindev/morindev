@@ -12,5 +12,5 @@
   </samp>
 </p>
 <p align="center">
-  <a href="https://discord.com/users/692411581572841544" target="_blank"><img src="https://lanyard.cnrad.dev/api/929388270171873291?hideActivity=true" alt="Discord Presence" style="max-width: 100%;"></a>
+  <a href="https://discord.com/users/692411581572841544" target="_blank"><img src="https://lanyard.cnrad.dev/api/692411581572841544?hideActivity=true" alt="Discord Presence" style="max-width: 100%;"></a>
 </p>
